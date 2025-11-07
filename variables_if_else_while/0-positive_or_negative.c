@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -assigns a random number and prints whether it is positive or negative
- * Return: 0
+ * main - assigns a random number to variable n
+ * and prints whether it is positive, zero, or negative
+ * Return: Always 0
  */
 int main(void)
 {
@@ -24,4 +25,3 @@ int main(void)
     }
     return (0);
 }
-
