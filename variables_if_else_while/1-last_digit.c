@@ -4,7 +4,7 @@
 
 /**
  * main - assigns a random number to variable n
- *        and prints the last digit of n with its status
+ * and prints the last digit of n with its status
  * Return: Always 0
  */
 int main(void)
@@ -32,3 +32,6 @@ int main(void)
 
 	return (0);
 }
+
+
+
